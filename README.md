@@ -1,10 +1,16 @@
 # Hi, I'm Armando 👋
 
-Sports Data Scientist and Full Stack Engineer based in Pordenone, Italy.
+I'm a Sports Data Scientist and Full Stack Engineer based in Pordenone, Italy.
 
-My main focus is football analytics. I recently co-developed **[Contextual Football Scouting](https://contextual-football-scouting.vercel.app/)** — a live scouting platform built on UEFA Euro 2024 StatsBomb 360° data, modelling space control, decision quality, and off-ball movement across 200+ players.
+My main focus is football analytics. I recently co-developed Contextual Football Scouting, a live platform powered by UEFA Euro 2024 StatsBomb 360° data covering 200+ players across the competition. Built entirely from scratch, the dashboard models, indexes, and makes searchable key metrics such as space control, decision quality, and off-ball movement.
 
-By day I work as a Full Stack Engineer at **Eye-Tech S.r.l.**, building production systems from database schema to interactive 3D editors. Wrapping up a CS degree at the University of Padova and a Postgraduate in Sports Analytics at **Barça Innovation Hub** simultaneously — both July 2026.
+During the day I work as a Full Stack Engineer at Eye-Tech, where I deal with everything from database schema to developing webapps, including the officail website for the 2027 Youth Olympics.
+
+Before that, I spent time at Vimar SpA building NLP and RAG systems, and did a technical scouting analysis for Girona FC.
+
+I'm also wrapping up a CS degree at the University of Padova and a Postgraduate in Sports Analytics at Barça Innovation Hub at the same time; I had one exam left at UNIPD and figured I'd make the overlap work in my favour.
+
+When I'm not in front of a screen: calisthenics, football, and movies I half-watch while thinking about the next project.ech S.r.l.**, building production systems from database schema to interactive 3D editors. Wrapping up a CS degree at the University of Padova and a Postgraduate in Sports Analytics at **Barça Innovation Hub** simultaneously — both July 2026.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-mio)
