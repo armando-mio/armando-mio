@@ -10,7 +10,7 @@ Before that, I spent time at Vimar SpA building NLP and RAG systems, and did a t
 
 I'm also wrapping up a CS degree at the University of Padova and a Postgraduate in Sports Analytics at Barça Innovation Hub at the same time; I had one exam left at UNIPD and figured I'd make the overlap work in my favour.
 
-When I'm not in front of a screen: calisthenics, football, and movies I half-watch while thinking about the next project.ech S.r.l.**, building production systems from database schema to interactive 3D editors. Wrapping up a CS degree at the University of Padova and a Postgraduate in Sports Analytics at **Barça Innovation Hub** simultaneously — both July 2026.
+When I'm not in front of a screen: calisthenics, football, and movies I half-watch while thinking about the next project.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-mio)
