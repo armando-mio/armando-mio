@@ -1,6 +1,6 @@
 # Hi, I'm Armando 👋
 
-I'm a Sports Data Scientist and Full Stack Engineer based in Pordenone, Italy.
+I'm a Sports Data Scientist and Software Developer based in Pordenone, Italy.
 
 My main focus is football analytics. I recently co-developed Contextual Football Scouting, a live platform powered by UEFA Euro 2024 StatsBomb 360° data covering 200+ players across the competition. Built entirely from scratch, the dashboard models, indexes, and makes searchable key metrics such as space control, decision quality, and off-ball movement.
 
